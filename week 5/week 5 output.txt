@@ -1,0 +1,53 @@
+{
+int: is a keyword
+a[3],
+t1: is an identifier
+,
+t2: is an identifier
+;
+t1: is an identifier
+=2;a[0]=1;a[1]=2;a[
+t1: is an identifier
+]=3;
+t2: is an identifier
+=-(a[2]+
+t1: is an identifier
+*6)/a[2]-
+t1: is an identifier
+);
+if: is a keyword
+
+t2: is an identifier
+&
+gt: is an identifier
+;5
+then: is a keyword
+
+print: is an identifier
+(
+t2: is an identifier
+);
+else: is a keyword
+{
+int: is a keyword
+
+t3: is an identifier
+;
+t3: is an identifier
+=
+99: is an integer
+;
+t2: is an identifier
+=-
+25: is an integer
+;
+print: is an identifier
+(-
+t1: is an identifier
++
+t2: is an identifier
+*
+t3: is an identifier
+);}
+endif: is a keyword
+}
